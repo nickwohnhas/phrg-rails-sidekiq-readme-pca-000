@@ -119,3 +119,4 @@ We've seen how to improve the user's experience and keep our application respons
 [sidekiq-redis-terminal]: https://learn-verified.s3.amazonaws.com/sidekiq-redis-terminal.png
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/rails-sidekiq-readme'>Sidekiq</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Long-Running Tasks In Rails</p>
